@@ -5,4 +5,5 @@ DataFrame and Visualizations are saved to project directory.
 
 All Implemented in a single function - just call function and insert username
 
-Example Output Visualziartions and DataFrame atr included in this repository
+Example Output Visualziartions and DataFrame included in this repository
+For: @MrBeast, @elonmusk and @lexfridman
