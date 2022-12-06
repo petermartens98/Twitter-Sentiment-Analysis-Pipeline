@@ -1,4 +1,4 @@
-# Twitter-Web-Scraping-and-Sentiment-Analysis-and-Visualizations-ETL-Pipeline
+# Twitter-Web-Scraping-to-Sentiment-Analysis-to-Visualizations-ETL-Pipeline
 ETL Pipeline in Python - Using Snscrape to web-scrape tweets into pandas dataframe, NLTK for Sentiment Analysis, and then matplotlib/seaborn to visualize.
 
 DataFrame and Visualizations are saved to project directory.
