@@ -8,3 +8,5 @@ All Implemented in a single function - just call function and insert username + 
 Example Output Visualziartions and DataFrame included in this repository for: @lexfridman
 
 ## Visualizations Examples:
+![image](https://github.com/petermartens98/Twitter-Sentiment-Analysis-Pipeline/assets/87671757/41d4a42f-cbca-4b20-a9ae-8e9f6559e081)
+
